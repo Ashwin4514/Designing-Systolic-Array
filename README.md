@@ -28,6 +28,7 @@ Notably, six modules define the operation of this systolic array
 6) mm2s.sv:
 - This module returns the value from the systolic to the CPU via the AXI Protocol.
 
-**Understanding the Implementation
-**
+
+**IMPLEMENTATION**
+
 ![systolic](https://github.com/Ashwin4514/Systolic_Array_Design/assets/64789016/a6cf2d6e-1662-491a-8cc9-555e405d5611)
