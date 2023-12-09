@@ -1,5 +1,5 @@
 # Systolic_Array_Design
-The following repository houses a detailed implementation of the systolic array using Verilog and System Verilog.
+**The following repository houses a detailed implementation of the systolic array using Verilog and System Verilog.**
 The systolic array design for matrix multiplication incorporates a robust feature combination for efficient computation. Employing counters with a control module enhances the precision and control over the matrix multiplication process. The integration of AXI Handshaking and Memory Banking for CPU-SRAM communication ensures a streamlined data flow. Furthermore, it is synthesized for an ASIC implementation and tested on a Xilinx PYNQ Board.
 Notably, six modules define the operation of this systolic array
 1) pe. v : 
