@@ -1,0 +1,176 @@
+s2mm_tb SENT,6,addr=0:data=5
+s2mm_tb SENT,12,addr=1:data=7
+s2mm_tb SENT,18,addr=2:data=6
+Writing to RAM at addr=0, data=5
+Writing to RAM at addr=1, data=7
+Writing to RAM at addr=2, data=6
+s2mm_tb SENT,36,addr=3:data=5
+s2mm_tb SENT,40,addr=4:data=4
+s2mm_tb SENT,42,addr=5:data=6
+s2mm_tb SENT,44,addr=6:data=4
+s2mm_tb SENT,52,addr=7:data=8
+Writing to RAM at addr=3, data=5
+s2mm_tb SENT,54,addr=8:data=9
+s2mm_tb SENT,56,addr=9:data=3
+Writing to RAM at addr=0, data=4
+s2mm_tb SENT,58,addr=10:data=7
+Writing to RAM at addr=1, data=6
+s2mm_tb SENT,60,addr=11:data=5
+Writing to RAM at addr=2, data=4
+s2mm_tb SENT,62,addr=12:data=5
+s2mm_tb SENT,66,addr=13:data=9
+Writing to RAM at addr=3, data=8
+Writing to RAM at addr=0, data=9
+Writing to RAM at addr=1, data=3
+Writing to RAM at addr=2, data=7
+Writing to RAM at addr=3, data=5
+Writing to RAM at addr=0, data=5
+s2mm_tb SENT,80,addr=14:data=0
+Writing to RAM at addr=1, data=9
+s2mm_tb SENT,90,addr=15:data=0
+s2mm_tb SENT,94,addr=16:data=0
+s2mm_tb SENT,96,addr=17:data=8
+Writing to RAM at addr=2, data=0
+s2mm_tb SENT,100,addr=18:data=7
+s2mm_tb SENT,106,addr=19:data=8
+Writing to RAM at addr=3, data=0
+Writing to RAM at addr=0, data=0
+Writing to RAM at addr=1, data=8
+s2mm_tb SENT,116,addr=20:data=9
+Writing to RAM at addr=2, data=7
+s2mm_tb SENT,120,addr=21:data=7
+Writing to RAM at addr=3, data=8
+s2mm_tb SENT,124,addr=22:data=4
+s2mm_tb SENT,132,addr=23:data=7
+Writing to RAM at addr=0, data=9
+s2mm_tb SENT,134,addr=24:data=1
+Writing to RAM at addr=1, data=7
+s2mm_tb SENT,140,addr=25:data=6
+Writing to RAM at addr=2, data=4
+s2mm_tb SENT,148,addr=26:data=1
+Writing to RAM at addr=3, data=7
+Writing to RAM at addr=0, data=1
+Writing to RAM at addr=1, data=6
+s2mm_tb SENT,162,addr=27:data=9
+Writing to RAM at addr=2, data=1
+s2mm_tb SENT,172,addr=28:data=5
+s2mm_tb SENT,178,addr=29:data=4
+Writing to RAM at addr=3, data=9
+s2mm_tb SENT,180,addr=30:data=2
+s2mm_tb SENT,184,addr=31:data=7
+Writing to RAM at addr=0, data=5
+Writing to RAM at addr=1, data=4
+Writing to RAM at addr=2, data=2
+Writing to RAM at addr=3, data=7
+Reading from RAM at addr=0, data=0
+Reading from RAM at addr=0, data=5
+s2mm_tb RECEIVED A[0],202,addr=0:data=5
+s2mm_tb RECEIVED B[0],202,addr=0:data=0
+Reading from RAM at addr=1, data=8
+Reading from RAM at addr=1, data=7
+Reading from RAM at addr=0, data=9
+Reading from RAM at addr=0, data=4
+s2mm_tb RECEIVED A[0],204,addr=1:data=7
+s2mm_tb RECEIVED B[0],204,addr=1:data=8
+s2mm_tb RECEIVED A[1],204,addr=0:data=4
+s2mm_tb RECEIVED B[1],204,addr=0:data=9
+Reading from RAM at addr=2, data=7
+Reading from RAM at addr=2, data=6
+Reading from RAM at addr=0, data=1
+Reading from RAM at addr=1, data=7
+Reading from RAM at addr=0, data=9
+Reading from RAM at addr=1, data=6
+s2mm_tb RECEIVED A[0],206,addr=2:data=6
+s2mm_tb RECEIVED B[0],206,addr=2:data=7
+s2mm_tb RECEIVED A[1],206,addr=1:data=6
+s2mm_tb RECEIVED B[1],206,addr=1:data=7
+s2mm_tb RECEIVED A[2],206,addr=0:data=9
+s2mm_tb RECEIVED B[2],206,addr=0:data=1
+Reading from RAM at addr=3, data=8
+Reading from RAM at addr=3, data=5
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=1, data=6
+Reading from RAM at addr=2, data=4
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=1, data=3
+Reading from RAM at addr=2, data=4
+s2mm_tb RECEIVED A[0],208,addr=3:data=5
+s2mm_tb RECEIVED B[0],208,addr=3:data=8
+s2mm_tb RECEIVED A[1],208,addr=2:data=4
+s2mm_tb RECEIVED B[1],208,addr=2:data=4
+s2mm_tb RECEIVED A[2],208,addr=1:data=3
+s2mm_tb RECEIVED B[2],208,addr=1:data=6
+s2mm_tb RECEIVED A[3],208,addr=0:data=5
+s2mm_tb RECEIVED B[3],208,addr=0:data=5
+Reading from RAM at addr=0, data=0
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=1, data=4
+Reading from RAM at addr=2, data=1
+Reading from RAM at addr=3, data=7
+Reading from RAM at addr=1, data=9
+Reading from RAM at addr=2, data=7
+Reading from RAM at addr=3, data=8
+s2mm_tb RECEIVED A[0],210,addr=0:data=5
+s2mm_tb RECEIVED B[0],210,addr=0:data=0
+s2mm_tb RECEIVED A[1],210,addr=3:data=8
+s2mm_tb RECEIVED B[1],210,addr=3:data=7
+s2mm_tb RECEIVED A[2],210,addr=2:data=7
+s2mm_tb RECEIVED B[2],210,addr=2:data=1
+s2mm_tb RECEIVED A[3],210,addr=1:data=9
+s2mm_tb RECEIVED B[3],210,addr=1:data=4
+Reading from RAM at addr=1, data=8
+Reading from RAM at addr=1, data=7
+Reading from RAM at addr=2, data=2
+Reading from RAM at addr=3, data=9
+Reading from RAM at addr=0, data=9
+Reading from RAM at addr=2, data=0
+Reading from RAM at addr=3, data=5
+Reading from RAM at addr=0, data=4
+s2mm_tb RECEIVED A[0],212,addr=1:data=7
+s2mm_tb RECEIVED B[0],212,addr=1:data=8
+s2mm_tb RECEIVED A[1],212,addr=0:data=4
+s2mm_tb RECEIVED B[1],212,addr=0:data=9
+s2mm_tb RECEIVED A[2],212,addr=3:data=5
+s2mm_tb RECEIVED B[2],212,addr=3:data=9
+s2mm_tb RECEIVED A[3],212,addr=2:data=0
+s2mm_tb RECEIVED B[3],212,addr=2:data=2
+Reading from RAM at addr=2, data=7
+Reading from RAM at addr=2, data=6
+Reading from RAM at addr=3, data=7
+Reading from RAM at addr=0, data=1
+Reading from RAM at addr=1, data=7
+Reading from RAM at addr=3, data=0
+Reading from RAM at addr=0, data=9
+Reading from RAM at addr=1, data=6
+s2mm_tb RECEIVED A[0],214,addr=2:data=6
+s2mm_tb RECEIVED B[0],214,addr=2:data=7
+s2mm_tb RECEIVED A[1],214,addr=1:data=6
+s2mm_tb RECEIVED B[1],214,addr=1:data=7
+s2mm_tb RECEIVED A[2],214,addr=0:data=9
+s2mm_tb RECEIVED B[2],214,addr=0:data=1
+s2mm_tb RECEIVED A[3],214,addr=3:data=0
+s2mm_tb RECEIVED B[3],214,addr=3:data=7
+Reading from RAM at addr=3, data=8
+Reading from RAM at addr=3, data=5
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=1, data=6
+Reading from RAM at addr=2, data=4
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=1, data=3
+Reading from RAM at addr=2, data=4
+s2mm_tb RECEIVED A[0],216,addr=3:data=5
+s2mm_tb RECEIVED B[0],216,addr=3:data=8
+s2mm_tb RECEIVED A[1],216,addr=2:data=4
+s2mm_tb RECEIVED B[1],216,addr=2:data=4
+s2mm_tb RECEIVED A[2],216,addr=1:data=3
+s2mm_tb RECEIVED B[2],216,addr=1:data=6
+s2mm_tb RECEIVED A[3],216,addr=0:data=5
+s2mm_tb RECEIVED B[3],216,addr=0:data=5
+Reading from RAM at addr=0, data=0
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=1, data=4
+Reading from RAM at addr=2, data=1
+Reading from RAM at addr=3, data=7
+Reading from RAM at addr=1, data=9
+Reading from RAM at addr=2, data=7
+Reading from RAM at addr=3, data=8

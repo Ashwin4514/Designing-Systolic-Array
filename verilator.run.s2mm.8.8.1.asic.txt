@@ -1,0 +1,672 @@
+s2mm_tb SENT,10,addr=0:data=5
+s2mm_tb SENT,12,addr=1:data=7
+s2mm_tb SENT,22,addr=2:data=6
+s2mm_tb SENT,26,addr=3:data=5
+s2mm_tb SENT,28,addr=4:data=4
+s2mm_tb SENT,34,addr=5:data=6
+s2mm_tb SENT,38,addr=6:data=4
+s2mm_tb SENT,40,addr=7:data=8
+                  42 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=000 din0=00000000000000000000000000000101
+                  44 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=001 din0=00000000000000000000000000000111
+s2mm_tb SENT,46,addr=8:data=9
+s2mm_tb SENT,48,addr=9:data=3
+s2mm_tb SENT,50,addr=10:data=7
+s2mm_tb SENT,52,addr=11:data=5
+s2mm_tb SENT,54,addr=12:data=5
+                  54 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=010 din0=00000000000000000000000000000110
+s2mm_tb SENT,56,addr=13:data=9
+                  58 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=011 din0=00000000000000000000000000000101
+s2mm_tb SENT,60,addr=14:data=0
+                  60 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=100 din0=00000000000000000000000000000100
+s2mm_tb SENT,62,addr=15:data=0
+                  66 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=101 din0=00000000000000000000000000000110
+s2mm_tb SENT,70,addr=16:data=0
+                  70 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=110 din0=00000000000000000000000000000100
+                  72 Writing TOP.s2mm.genblk1[0].sram_memory_A addr0=111 din0=00000000000000000000000000001000
+s2mm_tb SENT,74,addr=17:data=8
+                  78 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=000 din0=00000000000000000000000000001001
+s2mm_tb SENT,80,addr=18:data=7
+                  80 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=001 din0=00000000000000000000000000000011
+                  82 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=010 din0=00000000000000000000000000000111
+                  84 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=011 din0=00000000000000000000000000000101
+s2mm_tb SENT,86,addr=19:data=8
+                  86 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=100 din0=00000000000000000000000000000101
+s2mm_tb SENT,88,addr=20:data=9
+                  88 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=101 din0=00000000000000000000000000001001
+s2mm_tb SENT,90,addr=21:data=7
+s2mm_tb SENT,92,addr=22:data=4
+                  92 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=110 din0=00000000000000000000000000000000
+s2mm_tb SENT,94,addr=23:data=7
+                  94 Writing TOP.s2mm.genblk1[1].sram_memory_A addr0=111 din0=00000000000000000000000000000000
+                 102 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=000 din0=00000000000000000000000000000000
+s2mm_tb SENT,104,addr=24:data=1
+                 106 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=001 din0=00000000000000000000000000001000
+s2mm_tb SENT,108,addr=25:data=6
+                 112 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=010 din0=00000000000000000000000000000111
+s2mm_tb SENT,116,addr=26:data=1
+s2mm_tb SENT,118,addr=27:data=9
+                 118 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=011 din0=00000000000000000000000000001000
+s2mm_tb SENT,120,addr=28:data=5
+                 120 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=100 din0=00000000000000000000000000001001
+s2mm_tb SENT,122,addr=29:data=4
+                 122 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=101 din0=00000000000000000000000000000111
+                 124 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=110 din0=00000000000000000000000000000100
+s2mm_tb SENT,126,addr=30:data=2
+                 126 Writing TOP.s2mm.genblk1[2].sram_memory_A addr0=111 din0=00000000000000000000000000000111
+s2mm_tb SENT,128,addr=31:data=7
+s2mm_tb SENT,134,addr=32:data=4
+                 136 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=000 din0=00000000000000000000000000000001
+                 140 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=001 din0=00000000000000000000000000000110
+s2mm_tb SENT,142,addr=33:data=5
+s2mm_tb SENT,144,addr=34:data=0
+s2mm_tb SENT,146,addr=35:data=6
+s2mm_tb SENT,148,addr=36:data=6
+                 148 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=010 din0=00000000000000000000000000000001
+s2mm_tb SENT,150,addr=37:data=6
+                 150 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=011 din0=00000000000000000000000000001001
+                 152 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=100 din0=00000000000000000000000000000101
+s2mm_tb SENT,154,addr=38:data=9
+                 154 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=101 din0=00000000000000000000000000000100
+s2mm_tb SENT,156,addr=39:data=6
+s2mm_tb SENT,158,addr=40:data=3
+                 158 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=110 din0=00000000000000000000000000000010
+s2mm_tb SENT,160,addr=41:data=4
+                 160 Writing TOP.s2mm.genblk1[3].sram_memory_A addr0=111 din0=00000000000000000000000000000111
+s2mm_tb SENT,164,addr=42:data=6
+                 166 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=000 din0=00000000000000000000000000000100
+s2mm_tb SENT,170,addr=43:data=0
+s2mm_tb SENT,172,addr=44:data=6
+s2mm_tb SENT,174,addr=45:data=6
+                 174 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=001 din0=00000000000000000000000000000101
+                 176 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=010 din0=00000000000000000000000000000000
+                 178 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=011 din0=00000000000000000000000000000110
+                 180 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=100 din0=00000000000000000000000000000110
+                 182 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=101 din0=00000000000000000000000000000110
+                 186 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=110 din0=00000000000000000000000000001001
+s2mm_tb SENT,188,addr=46:data=2
+                 188 Writing TOP.s2mm.genblk1[4].sram_memory_A addr0=111 din0=00000000000000000000000000000110
+s2mm_tb SENT,190,addr=47:data=1
+                 190 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=000 din0=00000000000000000000000000000011
+s2mm_tb SENT,192,addr=48:data=3
+                 192 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=001 din0=00000000000000000000000000000100
+s2mm_tb SENT,194,addr=49:data=3
+s2mm_tb SENT,196,addr=50:data=5
+                 196 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=010 din0=00000000000000000000000000000110
+s2mm_tb SENT,198,addr=51:data=4
+s2mm_tb SENT,200,addr=52:data=9
+                 202 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=011 din0=00000000000000000000000000000000
+s2mm_tb SENT,204,addr=53:data=1
+                 204 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=100 din0=00000000000000000000000000000110
+s2mm_tb SENT,206,addr=54:data=2
+                 206 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=101 din0=00000000000000000000000000000110
+s2mm_tb SENT,212,addr=55:data=1
+s2mm_tb SENT,214,addr=56:data=6
+s2mm_tb SENT,216,addr=57:data=2
+s2mm_tb SENT,218,addr=58:data=4
+s2mm_tb SENT,220,addr=59:data=2
+                 220 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=110 din0=00000000000000000000000000000010
+s2mm_tb SENT,222,addr=60:data=1
+                 222 Writing TOP.s2mm.genblk1[5].sram_memory_A addr0=111 din0=00000000000000000000000000000001
+                 224 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=000 din0=00000000000000000000000000000011
+s2mm_tb SENT,226,addr=61:data=1
+                 226 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=001 din0=00000000000000000000000000000011
+s2mm_tb SENT,228,addr=62:data=6
+                 228 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=010 din0=00000000000000000000000000000101
+                 230 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=011 din0=00000000000000000000000000000100
+                 232 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=100 din0=00000000000000000000000000001001
+s2mm_tb SENT,234,addr=63:data=1
+                 236 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=101 din0=00000000000000000000000000000001
+s2mm_tb SENT,238,addr=64:data=1
+                 238 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=110 din0=00000000000000000000000000000010
+s2mm_tb SENT,244,addr=65:data=3
+                 244 Writing TOP.s2mm.genblk1[6].sram_memory_A addr0=111 din0=00000000000000000000000000000001
+s2mm_tb SENT,246,addr=66:data=8
+                 246 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=000 din0=00000000000000000000000000000110
+s2mm_tb SENT,248,addr=67:data=0
+                 248 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=001 din0=00000000000000000000000000000010
+                 250 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=010 din0=00000000000000000000000000000100
+                 252 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=011 din0=00000000000000000000000000000010
+                 254 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=100 din0=00000000000000000000000000000001
+s2mm_tb SENT,256,addr=68:data=8
+                 258 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=101 din0=00000000000000000000000000000001
+s2mm_tb SENT,260,addr=69:data=0
+                 260 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=110 din0=00000000000000000000000000000110
+s2mm_tb SENT,262,addr=70:data=9
+                 266 Writing TOP.s2mm.genblk1[7].sram_memory_A addr0=111 din0=00000000000000000000000000000001
+s2mm_tb SENT,268,addr=71:data=4
+                 270 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=000 din0=00000000000000000000000000000001
+s2mm_tb SENT,272,addr=72:data=9
+s2mm_tb SENT,274,addr=73:data=6
+s2mm_tb SENT,276,addr=74:data=7
+                 276 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=001 din0=00000000000000000000000000000011
+                 278 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=010 din0=00000000000000000000000000001000
+                 280 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=011 din0=00000000000000000000000000000000
+s2mm_tb SENT,284,addr=75:data=0
+s2mm_tb SENT,286,addr=76:data=2
+                 288 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=100 din0=00000000000000000000000000001000
+s2mm_tb SENT,290,addr=77:data=1
+s2mm_tb SENT,292,addr=78:data=2
+                 292 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=101 din0=00000000000000000000000000000000
+                 294 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=110 din0=00000000000000000000000000001001
+                 300 Writing TOP.s2mm.genblk2[0].sram_memory_B addr0=111 din0=00000000000000000000000000000100
+                 304 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=000 din0=00000000000000000000000000001001
+                 306 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=001 din0=00000000000000000000000000000110
+s2mm_tb SENT,308,addr=79:data=1
+                 308 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=010 din0=00000000000000000000000000000111
+s2mm_tb SENT,310,addr=80:data=3
+s2mm_tb SENT,312,addr=81:data=4
+s2mm_tb SENT,314,addr=82:data=0
+s2mm_tb SENT,316,addr=83:data=6
+                 316 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=011 din0=00000000000000000000000000000000
+                 318 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=100 din0=00000000000000000000000000000010
+                 322 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=101 din0=00000000000000000000000000000001
+s2mm_tb SENT,324,addr=84:data=5
+                 324 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=110 din0=00000000000000000000000000000010
+s2mm_tb SENT,326,addr=85:data=2
+s2mm_tb SENT,340,addr=86:data=5
+                 340 Writing TOP.s2mm.genblk2[1].sram_memory_B addr0=111 din0=00000000000000000000000000000001
+s2mm_tb SENT,342,addr=87:data=0
+                 342 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=000 din0=00000000000000000000000000000011
+s2mm_tb SENT,344,addr=88:data=5
+                 344 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=001 din0=00000000000000000000000000000100
+                 346 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=010 din0=00000000000000000000000000000000
+s2mm_tb SENT,348,addr=89:data=9
+                 348 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=011 din0=00000000000000000000000000000110
+s2mm_tb SENT,350,addr=90:data=3
+s2mm_tb SENT,354,addr=91:data=6
+                 356 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=100 din0=00000000000000000000000000000101
+                 358 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=101 din0=00000000000000000000000000000010
+s2mm_tb SENT,366,addr=92:data=1
+s2mm_tb SENT,368,addr=93:data=7
+s2mm_tb SENT,370,addr=94:data=2
+                 372 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=110 din0=00000000000000000000000000000101
+                 374 Writing TOP.s2mm.genblk2[2].sram_memory_B addr0=111 din0=00000000000000000000000000000000
+                 376 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=000 din0=00000000000000000000000000000101
+s2mm_tb SENT,378,addr=95:data=1
+                 380 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=001 din0=00000000000000000000000000001001
+                 382 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=010 din0=00000000000000000000000000000011
+s2mm_tb SENT,386,addr=96:data=5
+                 386 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=011 din0=00000000000000000000000000000110
+s2mm_tb SENT,388,addr=97:data=0
+s2mm_tb SENT,398,addr=98:data=8
+                 398 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=100 din0=00000000000000000000000000000001
+                 400 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=101 din0=00000000000000000000000000000111
+                 402 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=110 din0=00000000000000000000000000000010
+s2mm_tb SENT,404,addr=99:data=0
+s2mm_tb SENT,408,addr=100:data=6
+                 410 Writing TOP.s2mm.genblk2[3].sram_memory_B addr0=111 din0=00000000000000000000000000000001
+s2mm_tb SENT,412,addr=101:data=2
+s2mm_tb SENT,414,addr=102:data=7
+s2mm_tb SENT,416,addr=103:data=9
+                 418 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=000 din0=00000000000000000000000000000101
+                 420 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=001 din0=00000000000000000000000000000000
+s2mm_tb SENT,422,addr=104:data=2
+s2mm_tb SENT,424,addr=105:data=5
+s2mm_tb SENT,426,addr=106:data=5
+s2mm_tb SENT,428,addr=107:data=5
+                 430 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=010 din0=00000000000000000000000000001000
+s2mm_tb SENT,434,addr=108:data=2
+                 436 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=011 din0=00000000000000000000000000000000
+s2mm_tb SENT,440,addr=109:data=9
+                 440 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=100 din0=00000000000000000000000000000110
+s2mm_tb SENT,442,addr=110:data=4
+s2mm_tb SENT,444,addr=111:data=8
+                 444 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=101 din0=00000000000000000000000000000010
+s2mm_tb SENT,446,addr=112:data=6
+                 446 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=110 din0=00000000000000000000000000000111
+                 448 Writing TOP.s2mm.genblk2[4].sram_memory_B addr0=111 din0=00000000000000000000000000001001
+s2mm_tb SENT,450,addr=113:data=2
+s2mm_tb SENT,452,addr=114:data=8
+                 454 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=000 din0=00000000000000000000000000000010
+                 456 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=001 din0=00000000000000000000000000000101
+                 458 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=010 din0=00000000000000000000000000000101
+                 460 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=011 din0=00000000000000000000000000000101
+                 466 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=100 din0=00000000000000000000000000000010
+s2mm_tb SENT,468,addr=115:data=3
+s2mm_tb SENT,470,addr=116:data=8
+                 472 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=101 din0=00000000000000000000000000001001
+s2mm_tb SENT,474,addr=117:data=5
+                 474 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=110 din0=00000000000000000000000000000100
+                 476 Writing TOP.s2mm.genblk2[5].sram_memory_B addr0=111 din0=00000000000000000000000000001000
+s2mm_tb SENT,478,addr=118:data=8
+                 478 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=000 din0=00000000000000000000000000000110
+s2mm_tb SENT,482,addr=119:data=6
+                 482 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=001 din0=00000000000000000000000000000010
+                 484 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=010 din0=00000000000000000000000000001000
+s2mm_tb SENT,488,addr=120:data=7
+s2mm_tb SENT,490,addr=121:data=5
+s2mm_tb SENT,494,addr=122:data=9
+s2mm_tb SENT,496,addr=123:data=6
+s2mm_tb SENT,498,addr=124:data=4
+                 500 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=011 din0=00000000000000000000000000000011
+s2mm_tb SENT,502,addr=125:data=6
+                 502 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=100 din0=00000000000000000000000000001000
+s2mm_tb SENT,504,addr=126:data=0
+                 506 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=101 din0=00000000000000000000000000000101
+s2mm_tb SENT,508,addr=127:data=3
+                 510 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=110 din0=00000000000000000000000000001000
+                 514 Writing TOP.s2mm.genblk2[6].sram_memory_B addr0=111 din0=00000000000000000000000000000110
+                 520 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=000 din0=00000000000000000000000000000111
+                 522 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=001 din0=00000000000000000000000000000101
+                 526 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=010 din0=00000000000000000000000000001001
+                 528 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=011 din0=00000000000000000000000000000110
+                 530 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=100 din0=00000000000000000000000000000100
+                 534 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=101 din0=00000000000000000000000000000110
+                 536 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=110 din0=00000000000000000000000000000000
+                 540 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=000 dout1=00000000000000000000000000000101
+                 540 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=000 dout1=00000000000000000000000000000001
+                 540 Writing TOP.s2mm.genblk2[7].sram_memory_B addr0=111 din0=00000000000000000000000000000011
+s2mm_tb RECEIVED A[0],542,addr=0:data=5
+s2mm_tb RECEIVED B[0],542,addr=0:data=1
+                 542 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=001 dout1=00000000000000000000000000000111
+                 542 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=001 dout1=00000000000000000000000000000011
+                 542 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=000 dout1=00000000000000000000000000001001
+                 542 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=000 dout1=00000000000000000000000000001001
+s2mm_tb RECEIVED A[0],544,addr=1:data=7
+s2mm_tb RECEIVED B[0],544,addr=1:data=3
+s2mm_tb RECEIVED A[1],544,addr=0:data=9
+s2mm_tb RECEIVED B[1],544,addr=0:data=9
+                 544 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=010 dout1=00000000000000000000000000000110
+                 544 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=010 dout1=00000000000000000000000000001000
+                 544 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=001 dout1=00000000000000000000000000000011
+                 544 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=000 dout1=00000000000000000000000000000000
+                 544 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=001 dout1=00000000000000000000000000000110
+                 544 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=000 dout1=00000000000000000000000000000011
+s2mm_tb RECEIVED A[0],546,addr=2:data=6
+s2mm_tb RECEIVED B[0],546,addr=2:data=8
+s2mm_tb RECEIVED A[1],546,addr=1:data=3
+s2mm_tb RECEIVED B[1],546,addr=1:data=6
+s2mm_tb RECEIVED A[2],546,addr=0:data=0
+s2mm_tb RECEIVED B[2],546,addr=0:data=3
+                 546 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=011 dout1=00000000000000000000000000000101
+                 546 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=011 dout1=00000000000000000000000000000000
+                 546 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=010 dout1=00000000000000000000000000000111
+                 546 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=001 dout1=00000000000000000000000000001000
+                 546 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=000 dout1=00000000000000000000000000000001
+                 546 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=010 dout1=00000000000000000000000000000111
+                 546 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=001 dout1=00000000000000000000000000000100
+                 546 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=000 dout1=00000000000000000000000000000101
+s2mm_tb RECEIVED A[0],548,addr=3:data=5
+s2mm_tb RECEIVED B[0],548,addr=3:data=0
+s2mm_tb RECEIVED A[1],548,addr=2:data=7
+s2mm_tb RECEIVED B[1],548,addr=2:data=7
+s2mm_tb RECEIVED A[2],548,addr=1:data=8
+s2mm_tb RECEIVED B[2],548,addr=1:data=4
+s2mm_tb RECEIVED A[3],548,addr=0:data=1
+s2mm_tb RECEIVED B[3],548,addr=0:data=5
+                 548 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=100 dout1=00000000000000000000000000000100
+                 548 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=100 dout1=00000000000000000000000000001000
+                 548 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=011 dout1=00000000000000000000000000000101
+                 548 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=010 dout1=00000000000000000000000000000111
+                 548 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=001 dout1=00000000000000000000000000000110
+                 548 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=000 dout1=00000000000000000000000000000100
+                 548 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=011 dout1=00000000000000000000000000000000
+                 548 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=010 dout1=00000000000000000000000000000000
+                 548 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=001 dout1=00000000000000000000000000001001
+                 548 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=000 dout1=00000000000000000000000000000101
+s2mm_tb RECEIVED A[0],550,addr=4:data=4
+s2mm_tb RECEIVED B[0],550,addr=4:data=8
+s2mm_tb RECEIVED A[1],550,addr=3:data=5
+s2mm_tb RECEIVED B[1],550,addr=3:data=0
+s2mm_tb RECEIVED A[2],550,addr=2:data=7
+s2mm_tb RECEIVED B[2],550,addr=2:data=0
+s2mm_tb RECEIVED A[3],550,addr=1:data=6
+s2mm_tb RECEIVED B[3],550,addr=1:data=9
+s2mm_tb RECEIVED A[4],550,addr=0:data=4
+s2mm_tb RECEIVED B[4],550,addr=0:data=5
+                 550 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=101 dout1=00000000000000000000000000000110
+                 550 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=101 dout1=00000000000000000000000000000000
+                 550 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=100 dout1=00000000000000000000000000000101
+                 550 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=011 dout1=00000000000000000000000000001000
+                 550 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=010 dout1=00000000000000000000000000000001
+                 550 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=001 dout1=00000000000000000000000000000101
+                 550 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=000 dout1=00000000000000000000000000000011
+                 550 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=100 dout1=00000000000000000000000000000010
+                 550 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=011 dout1=00000000000000000000000000000110
+                 550 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=010 dout1=00000000000000000000000000000011
+                 550 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=001 dout1=00000000000000000000000000000000
+                 550 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=000 dout1=00000000000000000000000000000010
+s2mm_tb RECEIVED A[0],552,addr=5:data=6
+s2mm_tb RECEIVED B[0],552,addr=5:data=0
+s2mm_tb RECEIVED A[1],552,addr=4:data=5
+s2mm_tb RECEIVED B[1],552,addr=4:data=2
+s2mm_tb RECEIVED A[2],552,addr=3:data=8
+s2mm_tb RECEIVED B[2],552,addr=3:data=6
+s2mm_tb RECEIVED A[3],552,addr=2:data=1
+s2mm_tb RECEIVED B[3],552,addr=2:data=3
+s2mm_tb RECEIVED A[4],552,addr=1:data=5
+s2mm_tb RECEIVED B[4],552,addr=1:data=0
+s2mm_tb RECEIVED A[5],552,addr=0:data=3
+s2mm_tb RECEIVED B[5],552,addr=0:data=2
+                 552 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=110 dout1=00000000000000000000000000000100
+                 552 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=110 dout1=00000000000000000000000000001001
+                 552 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=101 dout1=00000000000000000000000000001001
+                 552 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=100 dout1=00000000000000000000000000001001
+                 552 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=011 dout1=00000000000000000000000000001001
+                 552 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=010 dout1=00000000000000000000000000000000
+                 552 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=001 dout1=00000000000000000000000000000100
+                 552 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=000 dout1=00000000000000000000000000000011
+                 552 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=101 dout1=00000000000000000000000000000001
+                 552 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=100 dout1=00000000000000000000000000000101
+                 552 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=011 dout1=00000000000000000000000000000110
+                 552 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=010 dout1=00000000000000000000000000001000
+                 552 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=001 dout1=00000000000000000000000000000101
+                 552 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=000 dout1=00000000000000000000000000000110
+s2mm_tb RECEIVED A[0],554,addr=6:data=4
+s2mm_tb RECEIVED B[0],554,addr=6:data=9
+s2mm_tb RECEIVED A[1],554,addr=5:data=9
+s2mm_tb RECEIVED B[1],554,addr=5:data=1
+s2mm_tb RECEIVED A[2],554,addr=4:data=9
+s2mm_tb RECEIVED B[2],554,addr=4:data=5
+s2mm_tb RECEIVED A[3],554,addr=3:data=9
+s2mm_tb RECEIVED B[3],554,addr=3:data=6
+s2mm_tb RECEIVED A[4],554,addr=2:data=0
+s2mm_tb RECEIVED B[4],554,addr=2:data=8
+s2mm_tb RECEIVED A[5],554,addr=1:data=4
+s2mm_tb RECEIVED B[5],554,addr=1:data=5
+s2mm_tb RECEIVED A[6],554,addr=0:data=3
+s2mm_tb RECEIVED B[6],554,addr=0:data=6
+                 554 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=111 dout1=00000000000000000000000000001000
+                 554 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=111 dout1=00000000000000000000000000000100
+                 554 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=110 dout1=00000000000000000000000000000000
+                 554 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=101 dout1=00000000000000000000000000000111
+                 554 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=100 dout1=00000000000000000000000000000101
+                 554 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=011 dout1=00000000000000000000000000000110
+                 554 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=010 dout1=00000000000000000000000000000110
+                 554 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=001 dout1=00000000000000000000000000000011
+                 554 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=000 dout1=00000000000000000000000000000110
+                 554 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=110 dout1=00000000000000000000000000000010
+                 554 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=101 dout1=00000000000000000000000000000010
+                 554 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=100 dout1=00000000000000000000000000000001
+                 554 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=011 dout1=00000000000000000000000000000000
+                 554 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=010 dout1=00000000000000000000000000000101
+                 554 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=001 dout1=00000000000000000000000000000010
+                 554 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=000 dout1=00000000000000000000000000000111
+s2mm_tb RECEIVED A[0],556,addr=7:data=8
+s2mm_tb RECEIVED B[0],556,addr=7:data=4
+s2mm_tb RECEIVED A[1],556,addr=6:data=0
+s2mm_tb RECEIVED B[1],556,addr=6:data=2
+s2mm_tb RECEIVED A[2],556,addr=5:data=7
+s2mm_tb RECEIVED B[2],556,addr=5:data=2
+s2mm_tb RECEIVED A[3],556,addr=4:data=5
+s2mm_tb RECEIVED B[3],556,addr=4:data=1
+s2mm_tb RECEIVED A[4],556,addr=3:data=6
+s2mm_tb RECEIVED B[4],556,addr=3:data=0
+s2mm_tb RECEIVED A[5],556,addr=2:data=6
+s2mm_tb RECEIVED B[5],556,addr=2:data=5
+s2mm_tb RECEIVED A[6],556,addr=1:data=3
+s2mm_tb RECEIVED B[6],556,addr=1:data=2
+s2mm_tb RECEIVED A[7],556,addr=0:data=6
+s2mm_tb RECEIVED B[7],556,addr=0:data=7
+                 556 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=000 dout1=00000000000000000000000000000101
+                 556 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=000 dout1=00000000000000000000000000000001
+                 556 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=111 dout1=00000000000000000000000000000000
+                 556 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=110 dout1=00000000000000000000000000000100
+                 556 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=101 dout1=00000000000000000000000000000100
+                 556 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=100 dout1=00000000000000000000000000000110
+                 556 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=011 dout1=00000000000000000000000000000000
+                 556 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=010 dout1=00000000000000000000000000000101
+                 556 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=001 dout1=00000000000000000000000000000010
+                 556 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=111 dout1=00000000000000000000000000000001
+                 556 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=110 dout1=00000000000000000000000000000101
+                 556 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=101 dout1=00000000000000000000000000000111
+                 556 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=100 dout1=00000000000000000000000000000110
+                 556 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=011 dout1=00000000000000000000000000000101
+                 556 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=010 dout1=00000000000000000000000000001000
+                 556 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=001 dout1=00000000000000000000000000000101
+s2mm_tb RECEIVED A[0],558,addr=0:data=5
+s2mm_tb RECEIVED B[0],558,addr=0:data=1
+s2mm_tb RECEIVED A[1],558,addr=7:data=0
+s2mm_tb RECEIVED B[1],558,addr=7:data=1
+s2mm_tb RECEIVED A[2],558,addr=6:data=4
+s2mm_tb RECEIVED B[2],558,addr=6:data=5
+s2mm_tb RECEIVED A[3],558,addr=5:data=4
+s2mm_tb RECEIVED B[3],558,addr=5:data=7
+s2mm_tb RECEIVED A[4],558,addr=4:data=6
+s2mm_tb RECEIVED B[4],558,addr=4:data=6
+s2mm_tb RECEIVED A[5],558,addr=3:data=0
+s2mm_tb RECEIVED B[5],558,addr=3:data=5
+s2mm_tb RECEIVED A[6],558,addr=2:data=5
+s2mm_tb RECEIVED B[6],558,addr=2:data=8
+s2mm_tb RECEIVED A[7],558,addr=1:data=2
+s2mm_tb RECEIVED B[7],558,addr=1:data=5
+                 558 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=001 dout1=00000000000000000000000000000111
+                 558 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=001 dout1=00000000000000000000000000000011
+                 558 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=000 dout1=00000000000000000000000000001001
+                 558 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=111 dout1=00000000000000000000000000000111
+                 558 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=110 dout1=00000000000000000000000000000010
+                 558 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=101 dout1=00000000000000000000000000000110
+                 558 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=100 dout1=00000000000000000000000000000110
+                 558 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=011 dout1=00000000000000000000000000000100
+                 558 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=010 dout1=00000000000000000000000000000100
+                 558 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=000 dout1=00000000000000000000000000001001
+                 558 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=111 dout1=00000000000000000000000000000000
+                 558 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=110 dout1=00000000000000000000000000000010
+                 558 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=101 dout1=00000000000000000000000000000010
+                 558 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=100 dout1=00000000000000000000000000000010
+                 558 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=011 dout1=00000000000000000000000000000011
+                 558 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=010 dout1=00000000000000000000000000001001
+s2mm_tb RECEIVED A[0],560,addr=1:data=7
+s2mm_tb RECEIVED B[0],560,addr=1:data=3
+s2mm_tb RECEIVED A[1],560,addr=0:data=9
+s2mm_tb RECEIVED B[1],560,addr=0:data=9
+s2mm_tb RECEIVED A[2],560,addr=7:data=7
+s2mm_tb RECEIVED B[2],560,addr=7:data=0
+s2mm_tb RECEIVED A[3],560,addr=6:data=2
+s2mm_tb RECEIVED B[3],560,addr=6:data=2
+s2mm_tb RECEIVED A[4],560,addr=5:data=6
+s2mm_tb RECEIVED B[4],560,addr=5:data=2
+s2mm_tb RECEIVED A[5],560,addr=4:data=6
+s2mm_tb RECEIVED B[5],560,addr=4:data=2
+s2mm_tb RECEIVED A[6],560,addr=3:data=4
+s2mm_tb RECEIVED B[6],560,addr=3:data=3
+s2mm_tb RECEIVED A[7],560,addr=2:data=4
+s2mm_tb RECEIVED B[7],560,addr=2:data=9
+                 560 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=010 dout1=00000000000000000000000000000110
+                 560 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=010 dout1=00000000000000000000000000001000
+                 560 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=001 dout1=00000000000000000000000000000011
+                 560 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=000 dout1=00000000000000000000000000000000
+                 560 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=111 dout1=00000000000000000000000000000111
+                 560 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=110 dout1=00000000000000000000000000001001
+                 560 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=101 dout1=00000000000000000000000000000110
+                 560 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=100 dout1=00000000000000000000000000001001
+                 560 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=011 dout1=00000000000000000000000000000010
+                 560 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=001 dout1=00000000000000000000000000000110
+                 560 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=000 dout1=00000000000000000000000000000011
+                 560 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=111 dout1=00000000000000000000000000000001
+                 560 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=110 dout1=00000000000000000000000000000111
+                 560 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=101 dout1=00000000000000000000000000001001
+                 560 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=100 dout1=00000000000000000000000000001000
+                 560 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=011 dout1=00000000000000000000000000000110
+s2mm_tb RECEIVED A[0],562,addr=2:data=6
+s2mm_tb RECEIVED B[0],562,addr=2:data=8
+s2mm_tb RECEIVED A[1],562,addr=1:data=3
+s2mm_tb RECEIVED B[1],562,addr=1:data=6
+s2mm_tb RECEIVED A[2],562,addr=0:data=0
+s2mm_tb RECEIVED B[2],562,addr=0:data=3
+s2mm_tb RECEIVED A[3],562,addr=7:data=7
+s2mm_tb RECEIVED B[3],562,addr=7:data=1
+s2mm_tb RECEIVED A[4],562,addr=6:data=9
+s2mm_tb RECEIVED B[4],562,addr=6:data=7
+s2mm_tb RECEIVED A[5],562,addr=5:data=6
+s2mm_tb RECEIVED B[5],562,addr=5:data=9
+s2mm_tb RECEIVED A[6],562,addr=4:data=9
+s2mm_tb RECEIVED B[6],562,addr=4:data=8
+s2mm_tb RECEIVED A[7],562,addr=3:data=2
+s2mm_tb RECEIVED B[7],562,addr=3:data=6
+                 562 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=011 dout1=00000000000000000000000000000101
+                 562 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=011 dout1=00000000000000000000000000000000
+                 562 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=010 dout1=00000000000000000000000000000111
+                 562 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=001 dout1=00000000000000000000000000001000
+                 562 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=000 dout1=00000000000000000000000000000001
+                 562 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=111 dout1=00000000000000000000000000000110
+                 562 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=110 dout1=00000000000000000000000000000010
+                 562 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=101 dout1=00000000000000000000000000000001
+                 562 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=100 dout1=00000000000000000000000000000001
+                 562 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=010 dout1=00000000000000000000000000000111
+                 562 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=001 dout1=00000000000000000000000000000100
+                 562 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=000 dout1=00000000000000000000000000000101
+                 562 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=111 dout1=00000000000000000000000000001001
+                 562 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=110 dout1=00000000000000000000000000000100
+                 562 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=101 dout1=00000000000000000000000000000101
+                 562 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=100 dout1=00000000000000000000000000000100
+s2mm_tb RECEIVED A[0],564,addr=3:data=5
+s2mm_tb RECEIVED B[0],564,addr=3:data=0
+s2mm_tb RECEIVED A[1],564,addr=2:data=7
+s2mm_tb RECEIVED B[1],564,addr=2:data=7
+s2mm_tb RECEIVED A[2],564,addr=1:data=8
+s2mm_tb RECEIVED B[2],564,addr=1:data=4
+s2mm_tb RECEIVED A[3],564,addr=0:data=1
+s2mm_tb RECEIVED B[3],564,addr=0:data=5
+s2mm_tb RECEIVED A[4],564,addr=7:data=6
+s2mm_tb RECEIVED B[4],564,addr=7:data=9
+s2mm_tb RECEIVED A[5],564,addr=6:data=2
+s2mm_tb RECEIVED B[5],564,addr=6:data=4
+s2mm_tb RECEIVED A[6],564,addr=5:data=1
+s2mm_tb RECEIVED B[6],564,addr=5:data=5
+s2mm_tb RECEIVED A[7],564,addr=4:data=1
+s2mm_tb RECEIVED B[7],564,addr=4:data=4
+                 564 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=100 dout1=00000000000000000000000000000100
+                 564 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=100 dout1=00000000000000000000000000001000
+                 564 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=011 dout1=00000000000000000000000000000101
+                 564 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=010 dout1=00000000000000000000000000000111
+                 564 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=001 dout1=00000000000000000000000000000110
+                 564 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=000 dout1=00000000000000000000000000000100
+                 564 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=111 dout1=00000000000000000000000000000001
+                 564 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=110 dout1=00000000000000000000000000000010
+                 564 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=101 dout1=00000000000000000000000000000001
+                 564 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=011 dout1=00000000000000000000000000000000
+                 564 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=010 dout1=00000000000000000000000000000000
+                 564 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=001 dout1=00000000000000000000000000001001
+                 564 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=000 dout1=00000000000000000000000000000101
+                 564 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=111 dout1=00000000000000000000000000001000
+                 564 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=110 dout1=00000000000000000000000000001000
+                 564 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=101 dout1=00000000000000000000000000000110
+s2mm_tb RECEIVED A[0],566,addr=4:data=4
+s2mm_tb RECEIVED B[0],566,addr=4:data=8
+s2mm_tb RECEIVED A[1],566,addr=3:data=5
+s2mm_tb RECEIVED B[1],566,addr=3:data=0
+s2mm_tb RECEIVED A[2],566,addr=2:data=7
+s2mm_tb RECEIVED B[2],566,addr=2:data=0
+s2mm_tb RECEIVED A[3],566,addr=1:data=6
+s2mm_tb RECEIVED B[3],566,addr=1:data=9
+s2mm_tb RECEIVED A[4],566,addr=0:data=4
+s2mm_tb RECEIVED B[4],566,addr=0:data=5
+s2mm_tb RECEIVED A[5],566,addr=7:data=1
+s2mm_tb RECEIVED B[5],566,addr=7:data=8
+s2mm_tb RECEIVED A[6],566,addr=6:data=2
+s2mm_tb RECEIVED B[6],566,addr=6:data=8
+s2mm_tb RECEIVED A[7],566,addr=5:data=1
+s2mm_tb RECEIVED B[7],566,addr=5:data=6
+                 566 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=101 dout1=00000000000000000000000000000110
+                 566 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=101 dout1=00000000000000000000000000000000
+                 566 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=100 dout1=00000000000000000000000000000101
+                 566 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=011 dout1=00000000000000000000000000001000
+                 566 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=010 dout1=00000000000000000000000000000001
+                 566 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=001 dout1=00000000000000000000000000000101
+                 566 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=000 dout1=00000000000000000000000000000011
+                 566 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=111 dout1=00000000000000000000000000000001
+                 566 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=110 dout1=00000000000000000000000000000110
+                 566 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=100 dout1=00000000000000000000000000000010
+                 566 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=011 dout1=00000000000000000000000000000110
+                 566 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=010 dout1=00000000000000000000000000000011
+                 566 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=001 dout1=00000000000000000000000000000000
+                 566 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=000 dout1=00000000000000000000000000000010
+                 566 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=111 dout1=00000000000000000000000000000110
+                 566 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=110 dout1=00000000000000000000000000000000
+s2mm_tb RECEIVED A[0],568,addr=5:data=6
+s2mm_tb RECEIVED B[0],568,addr=5:data=0
+s2mm_tb RECEIVED A[1],568,addr=4:data=5
+s2mm_tb RECEIVED B[1],568,addr=4:data=2
+s2mm_tb RECEIVED A[2],568,addr=3:data=8
+s2mm_tb RECEIVED B[2],568,addr=3:data=6
+s2mm_tb RECEIVED A[3],568,addr=2:data=1
+s2mm_tb RECEIVED B[3],568,addr=2:data=3
+s2mm_tb RECEIVED A[4],568,addr=1:data=5
+s2mm_tb RECEIVED B[4],568,addr=1:data=0
+s2mm_tb RECEIVED A[5],568,addr=0:data=3
+s2mm_tb RECEIVED B[5],568,addr=0:data=2
+s2mm_tb RECEIVED A[6],568,addr=7:data=1
+s2mm_tb RECEIVED B[6],568,addr=7:data=6
+s2mm_tb RECEIVED A[7],568,addr=6:data=6
+s2mm_tb RECEIVED B[7],568,addr=6:data=0
+                 568 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=110 dout1=00000000000000000000000000000100
+                 568 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=110 dout1=00000000000000000000000000001001
+                 568 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=101 dout1=00000000000000000000000000001001
+                 568 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=100 dout1=00000000000000000000000000001001
+                 568 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=011 dout1=00000000000000000000000000001001
+                 568 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=010 dout1=00000000000000000000000000000000
+                 568 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=001 dout1=00000000000000000000000000000100
+                 568 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=000 dout1=00000000000000000000000000000011
+                 568 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=111 dout1=00000000000000000000000000000001
+                 568 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=101 dout1=00000000000000000000000000000001
+                 568 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=100 dout1=00000000000000000000000000000101
+                 568 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=011 dout1=00000000000000000000000000000110
+                 568 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=010 dout1=00000000000000000000000000001000
+                 568 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=001 dout1=00000000000000000000000000000101
+                 568 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=000 dout1=00000000000000000000000000000110
+                 568 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=111 dout1=00000000000000000000000000000011
+s2mm_tb RECEIVED A[0],570,addr=6:data=4
+s2mm_tb RECEIVED B[0],570,addr=6:data=9
+s2mm_tb RECEIVED A[1],570,addr=5:data=9
+s2mm_tb RECEIVED B[1],570,addr=5:data=1
+s2mm_tb RECEIVED A[2],570,addr=4:data=9
+s2mm_tb RECEIVED B[2],570,addr=4:data=5
+s2mm_tb RECEIVED A[3],570,addr=3:data=9
+s2mm_tb RECEIVED B[3],570,addr=3:data=6
+s2mm_tb RECEIVED A[4],570,addr=2:data=0
+s2mm_tb RECEIVED B[4],570,addr=2:data=8
+s2mm_tb RECEIVED A[5],570,addr=1:data=4
+s2mm_tb RECEIVED B[5],570,addr=1:data=5
+s2mm_tb RECEIVED A[6],570,addr=0:data=3
+s2mm_tb RECEIVED B[6],570,addr=0:data=6
+s2mm_tb RECEIVED A[7],570,addr=7:data=1
+s2mm_tb RECEIVED B[7],570,addr=7:data=3
+                 570 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=111 dout1=00000000000000000000000000001000
+                 570 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=111 dout1=00000000000000000000000000000100
+                 570 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=110 dout1=00000000000000000000000000000000
+                 570 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=101 dout1=00000000000000000000000000000111
+                 570 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=100 dout1=00000000000000000000000000000101
+                 570 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=011 dout1=00000000000000000000000000000110
+                 570 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=010 dout1=00000000000000000000000000000110
+                 570 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=001 dout1=00000000000000000000000000000011
+                 570 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=000 dout1=00000000000000000000000000000110
+                 570 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=110 dout1=00000000000000000000000000000010
+                 570 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=101 dout1=00000000000000000000000000000010
+                 570 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=100 dout1=00000000000000000000000000000001
+                 570 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=011 dout1=00000000000000000000000000000000
+                 570 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=010 dout1=00000000000000000000000000000101
+                 570 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=001 dout1=00000000000000000000000000000010
+                 570 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=000 dout1=00000000000000000000000000000111
+s2mm_tb RECEIVED A[0],572,addr=7:data=8
+s2mm_tb RECEIVED B[0],572,addr=7:data=4
+s2mm_tb RECEIVED A[1],572,addr=6:data=0
+s2mm_tb RECEIVED B[1],572,addr=6:data=2
+s2mm_tb RECEIVED A[2],572,addr=5:data=7
+s2mm_tb RECEIVED B[2],572,addr=5:data=2
+s2mm_tb RECEIVED A[3],572,addr=4:data=5
+s2mm_tb RECEIVED B[3],572,addr=4:data=1
+s2mm_tb RECEIVED A[4],572,addr=3:data=6
+s2mm_tb RECEIVED B[4],572,addr=3:data=0
+s2mm_tb RECEIVED A[5],572,addr=2:data=6
+s2mm_tb RECEIVED B[5],572,addr=2:data=5
+s2mm_tb RECEIVED A[6],572,addr=1:data=3
+s2mm_tb RECEIVED B[6],572,addr=1:data=2
+s2mm_tb RECEIVED A[7],572,addr=0:data=6
+s2mm_tb RECEIVED B[7],572,addr=0:data=7
+                 572 Reading TOP.s2mm.genblk1[0].sram_memory_A addr1=000 dout1=00000000000000000000000000000101
+                 572 Reading TOP.s2mm.genblk2[0].sram_memory_B addr1=000 dout1=00000000000000000000000000000001
+                 572 Reading TOP.s2mm.genblk1[1].sram_memory_A addr1=111 dout1=00000000000000000000000000000000
+                 572 Reading TOP.s2mm.genblk1[2].sram_memory_A addr1=110 dout1=00000000000000000000000000000100
+                 572 Reading TOP.s2mm.genblk1[3].sram_memory_A addr1=101 dout1=00000000000000000000000000000100
+                 572 Reading TOP.s2mm.genblk1[4].sram_memory_A addr1=100 dout1=00000000000000000000000000000110
+                 572 Reading TOP.s2mm.genblk1[5].sram_memory_A addr1=011 dout1=00000000000000000000000000000000
+                 572 Reading TOP.s2mm.genblk1[6].sram_memory_A addr1=010 dout1=00000000000000000000000000000101
+                 572 Reading TOP.s2mm.genblk1[7].sram_memory_A addr1=001 dout1=00000000000000000000000000000010
+                 572 Reading TOP.s2mm.genblk2[1].sram_memory_B addr1=111 dout1=00000000000000000000000000000001
+                 572 Reading TOP.s2mm.genblk2[2].sram_memory_B addr1=110 dout1=00000000000000000000000000000101
+                 572 Reading TOP.s2mm.genblk2[3].sram_memory_B addr1=101 dout1=00000000000000000000000000000111
+                 572 Reading TOP.s2mm.genblk2[4].sram_memory_B addr1=100 dout1=00000000000000000000000000000110
+                 572 Reading TOP.s2mm.genblk2[5].sram_memory_B addr1=011 dout1=00000000000000000000000000000101
+                 572 Reading TOP.s2mm.genblk2[6].sram_memory_B addr1=010 dout1=00000000000000000000000000001000
+                 572 Reading TOP.s2mm.genblk2[7].sram_memory_B addr1=001 dout1=00000000000000000000000000000101

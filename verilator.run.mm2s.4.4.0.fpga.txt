@@ -1,0 +1,72 @@
+mm2s_tb SENT D[0],6,addr=0:data=5
+mm2s_tb SENT D[1],6,addr=0:data=4
+mm2s_tb SENT D[2],6,addr=0:data=9
+mm2s_tb SENT D[3],6,addr=0:data=5
+Writing to RAM at addr=0, data=5
+Writing to RAM at addr=0, data=9
+Writing to RAM at addr=0, data=4
+Writing to RAM at addr=0, data=5
+Reading from RAM at addr=0, data=0
+mm2s_tb SENT D[0],8,addr=1:data=7
+mm2s_tb SENT D[1],8,addr=1:data=6
+mm2s_tb SENT D[2],8,addr=1:data=3
+mm2s_tb SENT D[3],8,addr=1:data=9
+Writing to RAM at addr=1, data=9
+Writing to RAM at addr=1, data=3
+Writing to RAM at addr=1, data=6
+Writing to RAM at addr=1, data=7
+Reading from RAM at addr=0, data=5
+mm2s_tb SENT D[0],10,addr=2:data=6
+mm2s_tb SENT D[1],10,addr=2:data=4
+mm2s_tb SENT D[2],10,addr=2:data=7
+mm2s_tb SENT D[3],10,addr=2:data=0
+Writing to RAM at addr=2, data=0
+Writing to RAM at addr=2, data=7
+Writing to RAM at addr=2, data=4
+Writing to RAM at addr=2, data=6
+Reading from RAM at addr=0, data=5
+mm2s_tb SENT D[0],12,addr=3:data=5
+mm2s_tb SENT D[1],12,addr=3:data=8
+mm2s_tb SENT D[2],12,addr=3:data=5
+mm2s_tb SENT D[3],12,addr=3:data=0
+Writing to RAM at addr=3, data=0
+Writing to RAM at addr=3, data=5
+Writing to RAM at addr=3, data=8
+Writing to RAM at addr=3, data=5
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=0, data=5
+Reading from RAM at addr=0, data=5
+mm2s_tb RECEIVED,24,addr=0:data=5
+Reading from RAM at addr=1, data=7
+mm2s_tb RECEIVED,26,addr=1:data=7
+Reading from RAM at addr=2, data=6
+mm2s_tb RECEIVED,28,addr=2:data=6
+Reading from RAM at addr=3, data=5
+mm2s_tb RECEIVED,30,addr=3:data=5
+Reading from RAM at addr=0, data=4
+mm2s_tb RECEIVED,32,addr=4:data=4
+Reading from RAM at addr=1, data=6
+mm2s_tb RECEIVED,34,addr=5:data=6
+Reading from RAM at addr=2, data=4
+mm2s_tb RECEIVED,36,addr=6:data=4
+Reading from RAM at addr=3, data=8
+mm2s_tb RECEIVED,38,addr=7:data=8
+Reading from RAM at addr=0, data=9
+mm2s_tb RECEIVED,40,addr=8:data=9
+Reading from RAM at addr=1, data=3
+mm2s_tb RECEIVED,42,addr=9:data=3
+Reading from RAM at addr=2, data=7
+mm2s_tb RECEIVED,44,addr=10:data=7
+Reading from RAM at addr=3, data=5
+mm2s_tb RECEIVED,46,addr=11:data=5
+Reading from RAM at addr=0, data=5
+mm2s_tb RECEIVED,48,addr=12:data=5
+Reading from RAM at addr=1, data=9
+mm2s_tb RECEIVED,50,addr=13:data=9
+Reading from RAM at addr=2, data=0
+mm2s_tb RECEIVED,52,addr=14:data=0
+Reading from RAM at addr=3, data=0
+mm2s_tb RECEIVED,54,addr=15:data=0
